@@ -31,7 +31,7 @@ const userSchema = new Schema(
             type:String,  // cloudinary url
             required:true
         },
-        copyImage:{
+        coverImage:{
             type:String,  // cloudinary url
             
         },
